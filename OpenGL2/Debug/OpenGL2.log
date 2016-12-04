@@ -1,0 +1,21 @@
+﻿  Main.cpp
+c:\users\brett\documents\git\c++\projects\opengl2\opengl2\vertexbuffer.h(16): warning C4091: 'static ': ignored on left of 'VertexBuffer::AttribPointer' when no variable is declared
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+ShaderProgram.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+ShaderProgram.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+ShaderProgram.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+ShaderProgram.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+ShaderProgram.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+ShaderProgram.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+ShaderProgram.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+ShaderProgram.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+VertexBuffer.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+VertexBuffer.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+VertexBuffer.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+VertexBuffer.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+VertexBuffer.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+VertexBuffer.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Brett\Documents\Git\C++\Projects\OpenGL2\Debug\vc120.pdb'; linking object as if no debug info
+  OpenGL2.vcxproj -> C:\Users\Brett\Documents\Git\C++\Projects\OpenGL2\Debug\OpenGL2.exe
+  OpenGL2.vcxproj -> C:\Users\Brett\Documents\Git\C++\Projects\OpenGL2\Debug\OpenGL2.pdb (Partial PDB)
